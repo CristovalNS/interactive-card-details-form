@@ -37,47 +37,50 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/CristovalNS/interactive-card-details-form)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://cristovalns.github.io/interactive-card-details-form/)
 
 ## My process
 
 ### Built with
 
 - HTML
-- CSS 
+- CSS
 - Flexbox
+- JavaScript (Supposed to, but didn't have a chance to fully implement it.)
 
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+I learned the anxiety that comes with deadlines.
 
-To see how you can add code snippets, see below:
+But in all seriousness, I've learned some new codes, such as:
+- How to import custom assets from the internet using links
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
 ```css
-.proud-of-this-css {
-  color: papayawhip;
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Space Grotesk', sans-serif;
 }
 ```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
+
+- The :nth-child(n) selector matches every element that is the nth child of its parent. (Didn't get to use it sadly, as I didn't get to use JavaScript)
+```css
+#warning p:nth-child(1), #warning p:nth-child(2){
+    width: 25%;
 }
 ```
 
 
 ### Continued development
 
-XXX
+If I am continuing the development of this code, I would continue to invest time into the JavaScript file, as I did not have enough time to properly make a complete and functioning JavaScript code.
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
+There are plenty of useful resources from the internet, mostly from Geeks4Geeks, W3Schools, and tutorialspoint. However, I couldn't provide the exact link to the courses that I visted, as I closed them in stress.
 
 ## Your Detail 
 
