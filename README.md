@@ -1,20 +1,26 @@
-# Quiz Challage - Interactive card detail page
+# Quiz 2 - Interactive card detail solution
 
-![Design preview for the Interactive card details form coding challenge](./design/desktop-preview.jpg)
+This is a solution to the [Interactive card detail page Quiz 2 challenge]
 
-## Welcome! 👋
+## Table of contents
 
-Welcome to Quiz 2 challenge for HCI course, this Quiz submission only will be opened during your class schedule .
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
 
-**To do this challenge, you need a good understanding of HTML and CSS, and basic JavaScript.**
 
-## The challenge
+## Overview
 
-Your challenge is to build out this interactive card details form and get it looking as close to the design as possible.
+### The challenge
 
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
-
-TARGET: Your users should be able to: 
+Users should be able to:
 
 - Fill in the form and see the card details update in real-time
 - Receive error messages when the form is submitted if:
@@ -23,52 +29,59 @@ TARGET: Your users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover, active, and focus states for interactive elements on the page
 
-NOTE: 
-Just do the best that you could do in the limited of time, and let see how well you could implement HTML, CSS and Basic JS to build a solution
+### Screenshot
 
-## Where to find everything
+![Space N = 1000](images/html_css_result.png)
 
-Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design. 
 
-The designs are in JPG static format. Using JPGs will mean that you'll need to use your best judgment for styles such as `font-size`, `padding` and `margin`. 
+### Links
 
-All the required assets for this project are in the `/assets` folder. The images are already exported for the correct screen size and optimized.
+- Solution URL: [GitHub](https://github.com/CristovalNS/interactive-card-details-form)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
-I also include variable and static font files for the required fonts for this project. You can choose to either link to Google Fonts or use the local font files to host the fonts yourself. Note that we've removed the static font files for the font weights that aren't needed for this project.
+## My process
 
-There is also a `style-guide.md` file containing the information you'll need, such as color palette and fonts.
+### Built with
 
-## Building your project
+- HTML
+- CSS 
+- Flexbox
 
-Feel free to use any workflow that you feel comfortable with. Below is a suggested process, but do not feel like you need to follow these steps:
 
-1. Initialize your project as a public repository on [GitHub](https://github.com/). You could just fork this repository to start the process
-2. Configure your repository to publish your code to a web address (I am sure you are familiar already with this step). 
-3. Look through the designs to start planning out how you'll tackle the project. This step is crucial to help you think ahead for CSS classes to create reusable styles, Feel free to use CSS Framework (Bootstrap, etc).
-4. Before adding any styles, structure your content with HTML. Writing your HTML first can help focus your attention on creating well-structured content.
-5. Write out the base styles for your project, including general content styles, such as `font-family` and `font-size`.
-6. Start adding styles to the top of the page and work down. Only move on to the next section once you're happy you've completed the area you're working on.
+### What I learned
 
-## Deploying your project
+Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
 
-As mentioned above, please hosts your running solution here:
+To see how you can add code snippets, see below:
 
-- [GitHub Pages](https://pages.github.com/)
+```html
+<h1>Some HTML code I'm proud of</h1>
+```
+```css
+.proud-of-this-css {
+  color: papayawhip;
+}
+```
+```js
+const proudOfThisFunc = () => {
+  console.log('🎉')
+}
+```
 
-## Create a custom `README.md`
 
-I strongly recommend overwriting this `README.md` with a custom one. I've provided a template inside the [`README-template.md`](./README-template.md) file in this starter code.
+### Continued development
 
-The template provides a guide for what to add. A custom `README` will help you explain your project and reflect on your learnings. Please feel free to edit our template as much as you like.
+XXX
 
-Once you've added your information to the template, delete this file and rename the `README-template.md` file to `README.md`. That will make it show up as your repository's README file.
+### Useful resources
 
-## Submitting your solution
+- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 
-Submit your solution on links below depend on your class (remember each class has different due date)
 
-* Submission link for class [L1AC](https://forms.office.com/r/JR157cR8nz) (only open on 6/1/2023 from 13:30 - 17:00)
-* Submission link for class [L1BC](https://forms.office.com/r/6LGsa2siuJ) (only open on 6/1/2023 from 8:30 - 12:00)
-* Submission link for class [L1CC](https://forms.office.com/r/FL0AZjSCNi) (only open on 5/1/2023 from 9:30 - 13:00)
+## Your Detail 
 
-**Have fun building!** 🚀
+- FullName - Cristoval Neo Sasono
+- StudentID - 2602158235
+- BINUS Email - cristoval.sasono@binus.ac.id
+
